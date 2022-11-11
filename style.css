@@ -1,0 +1,21 @@
+nav a{
+    text-decoration: none;
+}
+body{
+    width: 80%;
+    max-width: 800px;
+    margin: auto;
+    background-color: rgb(177, 241, 217);
+}
+.lista a{
+    text-decoration: none;
+}
+section img{
+    width: 50%;
+    max-width: 400px;
+    margin: 5px 5px 5px 5px;
+}
+.galeria{
+    display: grid;
+    grid-template-columns: 1fr;
+}
